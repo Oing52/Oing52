@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffdd00&fontColor=404040&fontAlignY=45&height=220&section=header&text=Chaeeun%20Jeon&fontSize=70)
 
-<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kmindev&repo=ascentic)](https://github.com/kmindev/ascentic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsbin&repo=soolpanda)](https://github.com/mrcsbin/soolpanda)
-</div>
 
 <!--
 **Oing52/Oing52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
