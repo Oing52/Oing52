@@ -8,5 +8,5 @@
 <hr>
 
 <div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oing52&layout=compact)](https://github.com/Oing52/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oing52&layout=compact)](https://github.com/Oing52/github-readme-stats)
 </div>
